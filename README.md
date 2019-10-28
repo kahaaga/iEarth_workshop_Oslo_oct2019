@@ -22,6 +22,24 @@ This will generate a folder in the working directory for the course `FAG123`, wi
 - The `Kategori`-, `Kriterietype`- og `Vurderingskriterium`-columns has to be standard text (no special characters like `_`).
 - In the`standardkommentar`-columns, values are intepreted as markdown. In the feedback to the students, you can thus write `kode = sin(x)`, and use **bold** or *italic* fonts, etc.
 
-## Literature
+## Assessment design
+
+Assessment design should:
+
+"EMPOWER"
+    - Engage students actively in identifying or formulating criteria
+    - Facilitate opportunities for self-assessment and reflection
+    - Deliver feedback that helps students self-correct
+    - Provide opportunities for feedback dialogue (peer and tutor-student)
+    - Encourage positive motivational beliefs and self-esteem
+    - Provide opportunities to apply what is learned in new tasks
+    - Yield information that teachers can use to help shape teaching
+"ENGAGE"
+    - Capture sufficient study time and effort in and out of class
+    - Distribute students’ effort evenly across topics and weeks.
+    - Engage students in deep not just shallow learning activity
+    - Communicates clear and high expectations to students.
+Adapted from Nicol and Macfarlane-Dick (2006) and Gibbs and Simpson (2004)
 
 - [Holder et al. 2017, Student Learning of Complex Earth Systems: A Model to Guide Development of Student Expertise in Problem-Solving](https://www.tandfonline.com/doi/full/10.5408/17-261.1)
+- [Hesse et al. 2014, A Framework for Teachable Collaborative Problem Solving Skills](https://link.springer.com/chapter/10.1007/978-94-017-9395-7_2)
