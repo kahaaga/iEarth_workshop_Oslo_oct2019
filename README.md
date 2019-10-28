@@ -1,6 +1,5 @@
 # Student assessment tool
 
-
 ## Usage
 
 To use the evaluator, simply import the `Evaluator` class from the `evaluation_rubric` module (located in the `evaluation_rubric.py` file). Then, create an `Evaluator` instance by feeding it the three mandatory arguments: 1) a file path to an Excel sheet containing the evaluation rubric(s), 2) the course code (a string), and 3) the semester (a string).
@@ -22,3 +21,7 @@ This will generate a folder in the working directory for the course `FAG123`, wi
 - Spreadsheets should be numbered sequentially using integers. `Activity 1`, `Activity 2` will work, `Activity 1A` and `Activity 1B` will not.
 - The `Kategori`-, `Kriterietype`- og `Vurderingskriterium`-columns has to be standard text (no special characters like `_`).
 - In the`standardkommentar`-columns, values are intepreted as markdown. In the feedback to the students, you can thus write `kode = sin(x)`, and use **bold** or *italic* fonts, etc.
+
+## Literature
+
+- [Holder et al. 2017, Student Learning of Complex Earth Systems: A Model to Guide Development of Student Expertise in Problem-Solving](https://www.tandfonline.com/doi/full/10.5408/17-261.1)
